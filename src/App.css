@@ -1,0 +1,30 @@
+.container{
+  height: 100vh !important;
+}
+
+.text-warning{
+  text-shadow: 2px 2px grey;
+  font-size: 80px;
+}
+
+.form-control{
+  outline: none !important;
+  border: none !important;
+  width: 75% !important;
+}
+
+.hover:hover{
+  color: red;
+}
+
+.add:hover{
+  color: skyblue;
+}
+
+.list-group-item:hover{
+  background-color: lightgrey;
+}
+
+.capitalize{
+  text-transform: capitalize;
+}
